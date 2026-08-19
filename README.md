@@ -23,4 +23,4 @@ Este projeto foi criado como parte dos meus estudos em ADS (Análise e Desenvolv
 
 ## 👤 Autor
 Feito por [Ricardo Wanderley] — estudante de ADS
-[LinkedIn](seu-link) · [Site](https://lint-heap-00858418.figma.site)
+[LinkedIn](www.linkedin.com/in/ricardo-wanderley-059160347) · [Site](https://lint-heap-00858418.figma.site)
